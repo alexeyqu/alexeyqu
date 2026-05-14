@@ -1,10 +1,10 @@
-Hi, I'm Alex 👋
+## Hi, I'm Alex 👋
 
-Backend engineer based in London. I like building AI-powered systems and have a soft spot for [data portability](https://dtinit.org) infrastructure. 
+**Backend engineer** based in London. I like building AI-powered systems and have a soft spot for [data portability](https://dtinit.org) infrastructure.
 
-In my spare time I contribute to various open source projects and lead engineering at @sysblok — a non-profit independent media outlet.
+In my spare time I contribute to various open source projects and lead engineering at [sysblok](https://github.com/sysblok) — a non-profit independent media outlet.
 
-Fun fact: I sang in a choir for 3 years and can hold a harmony in Let It Go.
+> Fun fact: I sang in a choir for 3 years and can hold a harmony in _Let It Go_.
 
 ---
 
